@@ -6,7 +6,7 @@ Lichen checklists for New York City and the New York metropolitan area.
 - [NYC Location Key](nyc-location-key.tsv)
 - [NY Metro Checklist](nymetro-checklist.tsv) (excluding NYC)
 - [NY Metro Location Key](nymetro-location-key.tsv)
-- [Sighting Log](sighting-log.tsv) (reverse chronological)
+- [Sighting Log](sighting-log.tsv)
 
 Compiled by Nick Patch.
 

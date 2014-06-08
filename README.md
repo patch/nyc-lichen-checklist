@@ -2,8 +2,6 @@
 
 > *“On the southern face of almost every rock the lichens grew, yellow, rusty-brown, yellow-green, like patches of dirty paint daubed on the stone.”* —Edward Abbey
 
-> *“One could speculate that lichens would be among the last inhabitants to succumb on a dying earth at some distant point in the future.”* —Steven L. Stephenson
-
 Lichen checklists for New York City and the New York metropolitan area.
 
 - [NYC Checklist](nyc-checklist.tsv)
@@ -11,6 +9,8 @@ Lichen checklists for New York City and the New York metropolitan area.
 - [NY Metro Checklist](nymetro-checklist.tsv) (excluding NYC)
 - [NY Metro Locations](nymetro-locations.tsv)
 - [Sighting Log](sighting-log.tsv)
+
+> *“One could speculate that lichens would be among the last inhabitants to succumb on a dying earth at some distant point in the future.”* —Steven L. Stephenson
 
 Compiled by Nick Patch.
 

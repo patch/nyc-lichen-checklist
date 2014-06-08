@@ -1,5 +1,9 @@
 # NYC Lichen Checklist
 
+> *“On the southern face of almost every rock the lichens grew, yellow, rusty-brown, yellow-green, like patches of dirty paint daubed on the stone.”* —Edward Abbey
+
+> *“One could speculate that lichens would be among the last inhabitants to succumb on a dying earth at some distant point in the future.”* —Steven L. Stephenson
+
 Lichen checklists for New York City and the New York metropolitan area.
 
 - [NYC Checklist](nyc-checklist.tsv)

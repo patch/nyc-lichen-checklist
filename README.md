@@ -1,7 +1,5 @@
 # NYC Lichen Checklist
 
-> *“On the southern face of almost every rock the lichens grew, yellow, rusty-brown, yellow-green, like patches of dirty paint daubed on the stone.”* —Edward Abbey
-
 Lichen checklists for New York City and the New York metropolitan area.
 
 - [NYC Checklist](nyc-checklist.tsv)
@@ -14,7 +12,9 @@ Lichen checklists for New York City and the New York metropolitan area.
 
 Compiled by Nick Patch.
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## See also
 

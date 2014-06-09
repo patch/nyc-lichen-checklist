@@ -19,6 +19,7 @@ Compiled by Nick Patch.
 ## See also
 
 ### Checklists
+- [Lichens of Central Park](http://education.eol.org/fguides/fieldguide-view.php?guidekey=820)
 - [Lichens of Long Island, New York: Revised Nomenclature](http://www.huh.harvard.edu/collections/lichens/Long_Island_Update.html)
 - [NYBG: Lichens and Lichenicolous Fungi of New York](http://sweetgum.nybg.org/vh/family_list.php?Where=SpeDivision+=+%27lichens%27+AND+DarCountry+contains+%27United+States+of+America%27+AND+DarStateProvince+contains+%27New+York%27&LimitPerPage=MAX_QUERY_RECORDS)
 - [Checklist of lichens and lichenicolous fungi of New York](http://www.biologie.uni-hamburg.de/checklists/lichens/north-america/usa_new-york_l.htm)

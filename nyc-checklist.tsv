@@ -1,5 +1,22 @@
-Name	Boroughs	Locations	Substrate
-Candelaria concolor (Dicks.) Stein	Brooklyn, Manhattan	CP, GW, SP	Cornus, rock
-Flavoparmelia caperata (L.) Hale	Bronx, Brooklyn, Manhattan	CP, GW, HT, NY, PP, SP	Cornus, Larix, Quercus, Tilia, rock
-Physcia millegrana Degel.	Brooklyn, Manhattan	CP, SP	hardwood, rock
-Punctelia rudecta (Ach.) Krog	Manhattan	CP	hardwood
+Name	Boroughs	Locations	Substrate	Sources
+Acarospora fuscata (Schrad.) Th. Fr.	Manhattan	CP		JA
+Caloplaca feracissima H. Magn.	Manhattan	CP		JA
+Candelaria concolor (Dicks.) Stein	Brooklyn, Manhattan	CP, GW, SP	Cornus, rock	JA, NP
+Cladonia sp.	Manhattan	CP		JA
+Flavoparmelia baltimorensis (Gyeln. & Fóriss)	Manhattan	CP		JA
+Flavoparmelia caperata (L.) Hale	Bronx, Brooklyn, Manhattan	CP, GW, HT, NY, PP, SP	Cornus, Larix, Quercus, Tilia, rock	JA, NP
+Flavopunctelia soredica (Nyl.) Hale	Manhattan	CP		JA
+Lecanora strobilina (Spreng.) Kieff.	Manhattan	CP		JA
+Lepraria finkii (B. de Lesd.) R.C. Harris	Manhattan	CP		JA
+Myelochroa aurulenta (Tuck.) Elix & Hale	Manhattan	CP		JA
+Parmelia sulcata Taylor	Manhattan	CP		JA
+Phaeophyscia adiastola (Essl.) Essl.	Manhattan	CP		JA
+Phaeophyscia rubropulchra (Degel.) Essl.	Manhattan	CP		JA
+Physcia millegrana Degel.	Brooklyn, Manhattan	CP, SP	hardwood, rock	JA, NP
+Physcia stellaris (L.) Nyl.	Manhattan	CP		JA
+Physciella chloantha (Ach.) Essl.	Manhattan	CP		JA
+Punctelia caseana Lendemer & Hodkinson	Manhattan	CP		JA
+Punctelia rudecta (Ach.) Krog	Manhattan	CP	hardwood	JA, NP
+Sarcogyne clavus (DC.) Kremp.	Manhattan	CP		JA
+Trapelia placodioides Coppins & P. James	Manhattan	CP		JA
+Xanthoparmelia plittii (Gyel.) Hale	Manhattan	CP		JA
